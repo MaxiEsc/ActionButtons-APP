@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActionButtons</string>
+    <string name="search">Buscar</string>
+    <string name="share">Compartir</string>
+    <string name="option1">Opcion 1</string>
+    <string name="option2">Opcion 2</string>
+</resources>
